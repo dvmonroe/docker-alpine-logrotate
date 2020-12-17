@@ -1,5 +1,7 @@
 # Alpine Linux Logrotate Image
 
+[![CI](https://github.com/dvmonroe/docker-alpine-logrotate/workflows/Default/badge.svg?branch=main&event=push)](https://github.com/dvmonroe/docker-alpine-logrotate/actions?query=workflow%3ADefault) [![Docker pulls](https://img.shields.io/docker/pulls/dvmonroe/docker-alpine-logrotate)](https://hub.docker.com/r/dvmonroe/alpine-logrotate/)
+
 Alpine Linux based Logrotate Docker image
 
 ## How to Build
