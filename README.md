@@ -15,7 +15,7 @@ This image is available on Docker Hub but if you need to build the image locally
 ## How to Use
 
   1. [Install Docker](https://docs.docker.com/engine/installation/).
-  2. Pull this image from Docker Hub: `docker pull dvmonroe/docker-alpine-logrotate:latest` (or use the image you built earlier, e.g. `alpine-logrotate:latest`).
+  2. Pull this image from Docker Hub: `docker pull dvmonroe/alpine-logrotate:latest` (or use the image you built earlier, e.g. `alpine-logrotate:latest`).
   3. Run a container from the image: `docker run -d --init dvmonroe/alpine-logrotate:latest`.
 
 ## Note
